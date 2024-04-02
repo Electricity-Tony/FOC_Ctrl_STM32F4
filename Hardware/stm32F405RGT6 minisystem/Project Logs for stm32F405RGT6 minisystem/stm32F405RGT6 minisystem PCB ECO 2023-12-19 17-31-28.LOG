@@ -1,0 +1,116 @@
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=NetC5_2 Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=3v3 Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=3v3 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=3v3 Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=3v3 Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=3v3 Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=3v3 Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=PB2 Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=NetD1_2 Pin=R4-1
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=NetD2_2 Pin=R5-1
+Removed Pin From Net: NetName=PA11 Pin=R5-2
+Removed Pin From Net: NetName=+5 Pin=XS1-1
+Removed Pin From Net: NetName=SWDIO Pin=XS1-2
+Removed Pin From Net: NetName=SWCLK Pin=XS1-3
+Removed Pin From Net: NetName=GND Pin=XS1-5
+Removed Pin From Net: NetName=GND Pin=XS1-6
+Removed Pin From Net: NetName=GND Pin=XS1-7
+Removed Pin From Net: NetName=GND Pin=XS1-8
+Removed Pin From Net: NetName=GND Pin=XS1-8
+Removed Pin From Net: NetName=GND Pin=XS1-9
+Removed Pin From Net: NetName=GND Pin=XS1-9
+Removed Member From Class: ClassName=F405RGT6_PCB test Member=W1
+Removed Member From Class: ClassName=F405RGT6_PCB test Member=W2
+Removed Member From Class: ClassName=F405RGT6_PCB test Member=W3
+Change Component Footprint: Designator=K1 Old Footprint=3-6微动开关 New Footprint=TS-1185EC-X-X-X
+Change Component Footprint: Designator=C1 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C2 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C3 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C4 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C5 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C6 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C7 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C8 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C9 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C10 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C11 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C12 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C13 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=XS1 Old Footprint=MicroUSB立创平口 New Footprint=TypeC-304-16BCP
+Change Component Footprint: Designator=R1 Old Footprint=Res0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R2 Old Footprint=Res0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R3 Old Footprint=Res0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R4 Old Footprint=Res0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R5 Old Footprint=Res0603 New Footprint=RES_0603
+Change Component Footprint: Designator=XT1 Old Footprint=直插两脚晶振 New Footprint=SMD3225_4p
+Change Component Comment : Designator=C12 Old Comment=2.2uF New Comment=2u2
+Change Component Comment : Designator=C13 Old Comment=2.2uF New Comment=2u2
+Change Component Comment : Designator=K1 Old Comment=3-6微动开关 New Comment=TS1185/EC
+Change Component Comment : Designator=C2 Old Comment=10u New Comment=106
+Change Component Comment : Designator=C3 Old Comment=22pF New Comment=22p
+Change Component Comment : Designator=C4 Old Comment=22pF New Comment=22p
+Change Component Comment : Designator=XT1 Old Comment=HC_49s New Comment=8M
+Change Component Comment : Designator=XS1 Old Comment=MicroUSB母口 New Comment=Type-C
+Added Component: Designator=D3(SOD-323)
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=3v3 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=3v3 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=3v3 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=3v3 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=3v3 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=3v3 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=+5 Pin=D3-2
+Added Pin To Net: NetName=PB2 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetD1_2 Pin=R4-2
+Added Pin To Net: NetName=PA11 Pin=R5-1
+Added Pin To Net: NetName=NetD2_2 Pin=R5-2
+Added Pin To Net: NetName=GND Pin=XS1-13
+Added Pin To Net: NetName=GND Pin=XS1-14
+Added Pin To Net: NetName=GND Pin=XS1-15
+Added Pin To Net: NetName=GND Pin=XS1-16
+Added Pin To Net: NetName=GND Pin=XS1-A1B12
+Added Pin To Net: NetName=SWDIO Pin=XS1-A6
+Added Pin To Net: NetName=SWCLK Pin=XS1-A7
+Added Pin To Net: NetName=GND Pin=XS1-B1A12
+Added Pin To Net: NetName=SWDIO Pin=XS1-B6
+Added Pin To Net: NetName=SWCLK Pin=XS1-B7
+Added Pin To Net: NetName=GND Pin=XT1-2
+Added Pin To Net: NetName=GND Pin=XT1-4
+Change Net Name : Old Net Name=+5 New Net Name=VDD_5V
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC5_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=U2-5
+Added Pin To Net: NetName=NetC3_2 Pin=XT1-3
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=XS1-A4B9
+Added Pin To Net: NetName=NetD3_1 Pin=XS1-B4A9
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U2-60
+Added Net: Name=NetR3_1
+Change Class Name : Old Net Name=F405RGT6_PCB test New Net Name=stm32F405RGT6 minisystem
+Added Member To Class: ClassName=stm32F405RGT6 minisystem Member=Component D3 ss14
+Added Room: Name=stm32F405RGT6 minisystem

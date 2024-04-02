@@ -1,0 +1,177 @@
+Removed Pin From Net: NetName=PGND_IN Pin=C?-1
+Removed Pin From Net: NetName=DCBUS Pin=C?-2
+Removed Pin From Net: NetName=NetD?_2 Pin=D?-2
+Removed Pin From Net: NetName=PGND_IN Pin=Q?-2
+Removed Pin From Net: NetName=PGND Pin=Q?-3
+Added Component: Designator=C?(CAP_1210_L)
+Added Component: Designator=C?(CAP_1210_L)
+Added Component: Designator=C?(CAP_1210_L)
+Added Component: Designator=D?(LL-34)
+Added Component: Designator=D?(SMB(DO-211AA))
+Added Component: Designator=D?(LL-34)
+Added Component: Designator=D?(LL-34)
+Added Component: Designator=K?(TS-1185EC-X-X-X)
+Added Component: Designator=K?(TS-1185EC-X-X-X)
+Added Component: Designator=K?(TS-1185EC-X-X-X)
+Added Component: Designator=PAD?(PAD-1)
+Added Component: Designator=PAD?(PAD-1)
+Added Component: Designator=PAD?(PAD-1)
+Added Component: Designator=PAD?(PAD-1)
+Added Component: Designator=PAD?(PAD-1)
+Added Component: Designator=Q?(TO252-2)
+Added Component: Designator=Q?(TO252-2)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=PGND_IN Pin=C?-1
+Added Pin To Net: NetName=PGND_IN Pin=C?-1
+Added Pin To Net: NetName=12V Pin=C?-2
+Added Pin To Net: NetName=DCBUS_IN Pin=C?-2
+Added Pin To Net: NetName=DCBUS_IN Pin=C?-2
+Added Pin To Net: NetName=DCBUS Pin=C?-2
+Added Pin To Net: NetName=PGND_IN Pin=D?-1
+Added Pin To Net: NetName=PGND_IN Pin=D?-1
+Added Pin To Net: NetName=PGND Pin=D?-1
+Added Pin To Net: NetName=DCBUS_IN Pin=D?-2
+Added Pin To Net: NetName=DCBUS_IN Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=Button1 Pin=K?-1
+Added Pin To Net: NetName=Button1 Pin=K?-1
+Added Pin To Net: NetName=Button2 Pin=K?-1
+Added Pin To Net: NetName=Button2 Pin=K?-1
+Added Pin To Net: NetName=Button3 Pin=K?-1
+Added Pin To Net: NetName=Button3 Pin=K?-1
+Added Pin To Net: NetName=GND Pin=K?-2
+Added Pin To Net: NetName=GND Pin=K?-2
+Added Pin To Net: NetName=GND Pin=K?-2
+Added Pin To Net: NetName=GND Pin=K?-2
+Added Pin To Net: NetName=GND Pin=K?-2
+Added Pin To Net: NetName=GND Pin=K?-2
+Added Pin To Net: NetName=5V Pin=PAD?-1
+Added Pin To Net: NetName=12V Pin=PAD?-1
+Added Pin To Net: NetName=DCBUS_IN Pin=PAD?-1
+Added Pin To Net: NetName=DCBUS Pin=PAD?-1
+Added Pin To Net: NetName=NetC?_2 Pin=PAD?-1
+Added Pin To Net: NetName=DCBUS Pin=Q?-2
+Added Pin To Net: NetName=PGND_IN Pin=Q?-2
+Added Pin To Net: NetName=DCBUS_IN Pin=Q?-3
+Added Pin To Net: NetName=NetC?_1 Pin=Q?-3
+Added Pin To Net: NetName=PGND Pin=Q?-3
+Added Member To Class: ClassName=Sheet1 Member=Component C? 103
+Added Member To Class: ClassName=Sheet1 Member=Component C? 106
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1210-10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1210-10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 106
+Added Member To Class: ClassName=Sheet1 Member=Component C? 56pF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 103
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1210-10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 2.2nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 102
+Added Member To Class: ClassName=Sheet1 Member=Component C? 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 103
+Added Member To Class: ClassName=Sheet1 Member=Component C? 47pF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 106
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 106
+Added Member To Class: ClassName=Sheet1 Member=Component C? 3.3nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 106
+Added Member To Class: ClassName=Sheet1 Member=Component C? 106
+Added Member To Class: ClassName=Sheet1 Member=Component CON? 5V
+Added Member To Class: ClassName=Sheet1 Member=Component CON? SH1.0_2
+Added Member To Class: ClassName=Sheet1 Member=Component CON? 3V3
+Added Member To Class: ClassName=Sheet1 Member=Component CON? 5V
+Added Member To Class: ClassName=Sheet1 Member=Component CON? SH1.0_2
+Added Member To Class: ClassName=Sheet1 Member=Component CON? SPI
+Added Member To Class: ClassName=Sheet1 Member=Component CON? 5V
+Added Member To Class: ClassName=Sheet1 Member=Component CON? 5V
+Added Member To Class: ClassName=Sheet1 Member=Component CON? ENCODER
+Added Member To Class: ClassName=Sheet1 Member=Component CON? 3V3
+Added Member To Class: ClassName=Sheet1 Member=Component CON? 3V3
+Added Member To Class: ClassName=Sheet1 Member=Component CON? 3V3
+Added Member To Class: ClassName=Sheet1 Member=Component CON? IIC
+Added Member To Class: ClassName=Sheet1 Member=Component D? ss14
+Added Member To Class: ClassName=Sheet1 Member=Component D? ss14
+Added Member To Class: ClassName=Sheet1 Member=Component D? ZMM12V
+Added Member To Class: ClassName=Sheet1 Member=Component D? SMBJ28CA
+Added Member To Class: ClassName=Sheet1 Member=Component D? ZMM12V
+Added Member To Class: ClassName=Sheet1 Member=Component D? RGB
+Added Member To Class: ClassName=Sheet1 Member=Component D? ZMM33V
+Added Member To Class: ClassName=Sheet1 Member=Component D? ss14
+Added Member To Class: ClassName=Sheet1 Member=Component K? TS1185/EC
+Added Member To Class: ClassName=Sheet1 Member=Component K? TS1185/EC
+Added Member To Class: ClassName=Sheet1 Member=Component K? TS1185/EC
+Added Member To Class: ClassName=Sheet1 Member=Component L? 68uH
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 12X2
+Added Member To Class: ClassName=Sheet1 Member=Component PAD? 12V
+Added Member To Class: ClassName=Sheet1 Member=Component PAD? 5V
+Added Member To Class: ClassName=Sheet1 Member=Component PAD? ADC-DCBUS
+Added Member To Class: ClassName=Sheet1 Member=Component PAD? DCBUS_IN
+Added Member To Class: ClassName=Sheet1 Member=Component PAD? DCBUS
+Added Member To Class: ClassName=Sheet1 Member=Component Q? SS8050
+Added Member To Class: ClassName=Sheet1 Member=Component Q? NCE6080K
+Added Member To Class: ClassName=Sheet1 Member=Component Q? FMMT593
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 453K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 5K1
+Added Member To Class: ClassName=Sheet1 Member=Component R? 49.9K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 5K1
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 120R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 13.7K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 22R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 30K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 22R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 453K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 22R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 13.7K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 49.9K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 330R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 453K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 453k/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 13.7K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 453K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 453K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 2K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 22R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1.5M
+Added Member To Class: ClassName=Sheet1 Member=Component R? 49.9K/3
+Added Member To Class: ClassName=Sheet1 Member=Component S? XT30UPB
+Added Member To Class: ClassName=Sheet1 Member=Component U? PESD1CAN
+Added Member To Class: ClassName=Sheet1 Member=Component U? LM5164
+Added Member To Class: ClassName=Sheet1 Member=Component U? TPS54302
+Added Member To Class: ClassName=Sheet1 Member=Component XS? HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component XS? CH340-Type-C
+Added Member To Class: ClassName=Sheet1 Member=Component XS? 0.96lcd-13p-160X80
+Added Member To Class: ClassName=Sheet1 Member=Component XS? USB-Type-C

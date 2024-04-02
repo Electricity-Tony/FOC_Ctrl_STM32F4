@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=R1-2
+Added Component: Designator=K2(Switch 1-2 0603)
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=3v3 Pin=K2-3
+Added Pin To Net: NetName=BOOT0 Pin=R1-2
+Added Pin To Net: NetName=BOOT0 Pin=U2-28
+Added Pin To Net: NetName=BOOT0 Pin=X1-33
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=NetK2_2 Pin=K2-2
+Added Pin To Net: NetName=NetK2_2 Pin=R1-1
+Added Net: Name=NetK2_2
+Added Member To Class: ClassName=stm32F405RGT6 minisystem Member=Component K2 Boot0Ñ¡Ôñ-Ä¬ÈÏGND
+Added Room: Name=stm32F405RGT6 minisystem

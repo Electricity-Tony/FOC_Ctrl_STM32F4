@@ -1,0 +1,7 @@
+Change Component Comment : Designator=R9 Old Comment=0603-20K New Comment=0603-10K
+Change Component Comment : Designator=R14 Old Comment=0603-20K New Comment=0603-10K
+Change Component Description : Designator=IC3 Old Description=三通道板桥驱动芯片 New Description= 三通道板桥驱动芯片
+Change Net Name : Old Net Name=PB13 New Net Name=M1_TIM_PWM1N
+Change Net Name : Old Net Name=PB14 New Net Name=M1_TIM_PWM2N
+Change Net Name : Old Net Name=PB15 New Net Name=M1_TIM_PWM3N
+Added Room: Name=Sheet1

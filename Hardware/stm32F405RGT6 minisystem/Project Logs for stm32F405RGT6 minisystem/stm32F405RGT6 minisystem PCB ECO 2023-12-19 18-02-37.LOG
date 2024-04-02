@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=PA11 Pin=R5-1
+Added Pin To Net: NetName=PA6 Pin=R5-1
+Added Room: Name=stm32F405RGT6 minisystem

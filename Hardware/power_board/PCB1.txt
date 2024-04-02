@@ -1,0 +1,16 @@
+Board Information Report
+Filename     : G:\BaiduSyncdisk\Synchronization\Tony diy\Core_FOC_F4_Ctrl\power_board\PCB1.PcbDoc
+Date         : 2024/2/8
+Time         : 18:05:59
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 310
+    Connections routed, 310
+    Connections remaining, 0
+count : 4
+
+Net Track Width, Count
+    4mils, 67
+count : 1

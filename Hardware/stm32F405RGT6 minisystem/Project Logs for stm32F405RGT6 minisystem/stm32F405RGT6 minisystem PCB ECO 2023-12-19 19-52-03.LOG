@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PB11 Pin=K1-1
+Removed Pin From Net: NetName=PB11 Pin=K1-1
+Added Pin To Net: NetName=PC10 Pin=K1-1
+Added Pin To Net: NetName=PC10 Pin=K1-1
+Added Room: Name=stm32F405RGT6 minisystem

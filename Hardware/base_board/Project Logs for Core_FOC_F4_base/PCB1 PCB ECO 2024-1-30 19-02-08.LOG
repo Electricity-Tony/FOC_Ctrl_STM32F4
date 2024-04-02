@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=IC Pin=XS5-17
+Removed Pin From Net: NetName=IB Pin=XS5-18
+Removed Pin From Net: NetName=IA Pin=XS5-19
+Removed Pin From Net: NetName=NTC1 Pin=XS5-23
+Removed Pin From Net: NetName=NTC2 Pin=XS5-24
+Removed Pin From Net: NetName=MA_ADC Pin=XS5-30
+Removed Pin From Net: NetName=MB_ADC Pin=XS5-31
+Removed Pin From Net: NetName=MC_ADC Pin=XS5-32
+Added Pin To Net: NetName=IB Pin=XS5-23
+Added Pin To Net: NetName=IA Pin=XS5-24
+Added Pin To Net: NetName=MC_ADC Pin=XS5-25
+Added Pin To Net: NetName=MB_ADC Pin=XS5-26
+Added Pin To Net: NetName=MA_ADC Pin=XS5-27
+Added Pin To Net: NetName=IC Pin=XS5-30
+Added Pin To Net: NetName=NTC1 Pin=XS5-31
+Added Pin To Net: NetName=NTC2 Pin=XS5-32
+Added Pin To Net: NetName=PC0 Pin=P2-16
+Added Pin To Net: NetName=PC0 Pin=XS5-17
+Added Net: Name=PC0
+Added Pin To Net: NetName=PC1 Pin=P2-15
+Added Pin To Net: NetName=PC1 Pin=XS5-18
+Added Net: Name=PC1
+Added Pin To Net: NetName=PC2 Pin=P2-18
+Added Pin To Net: NetName=PC2 Pin=XS5-19
+Added Net: Name=PC2
+Added Room: Name=Sheet1

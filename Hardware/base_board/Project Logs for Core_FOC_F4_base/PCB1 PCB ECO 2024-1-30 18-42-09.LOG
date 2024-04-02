@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=ENCODER_CS_B Pin=P3-2
+Removed Pin From Net: NetName=ENCODER_CS_Z Pin=P4-2
+Removed Pin From Net: NetName=ENCODER_CS_A Pin=P5-2
+Removed Member From Class: ClassName=Sheet1 Member=P3
+Removed Member From Class: ClassName=Sheet1 Member=P4
+Removed Member From Class: ClassName=Sheet1 Member=P5
+Added Room: Name=Sheet1

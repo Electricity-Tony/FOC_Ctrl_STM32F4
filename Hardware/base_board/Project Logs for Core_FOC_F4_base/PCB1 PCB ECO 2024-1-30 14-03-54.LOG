@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=PGND Pin=C29-1
+Removed Pin From Net: NetName=PGND Pin=R49-1
+Removed Pin From Net: NetName=PGND Pin=XS4-13
+Removed Pin From Net: NetName=PGND Pin=XS4-14
+Removed Pin From Net: NetName=PGND Pin=XS4-15
+Removed Pin From Net: NetName=PGND Pin=XS4-16
+Removed Pin From Net: NetName=PGND Pin=XS4-A1B12
+Removed Pin From Net: NetName=PGND Pin=XS4-B1A12
+Added Component: Designator=PAD6(PAD-1)
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=3V3 Pin=PAD6-1
+Added Pin To Net: NetName=GND Pin=R49-1
+Added Pin To Net: NetName=GND Pin=XS4-13
+Added Pin To Net: NetName=GND Pin=XS4-14
+Added Pin To Net: NetName=GND Pin=XS4-15
+Added Pin To Net: NetName=GND Pin=XS4-16
+Added Pin To Net: NetName=GND Pin=XS4-A1B12
+Added Pin To Net: NetName=GND Pin=XS4-B1A12
+Added Member To Class: ClassName=Sheet1 Member=Component PAD6 3V3
+Added Room: Name=Sheet1

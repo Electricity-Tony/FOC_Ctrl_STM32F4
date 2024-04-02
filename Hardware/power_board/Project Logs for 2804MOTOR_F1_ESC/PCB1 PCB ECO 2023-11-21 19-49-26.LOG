@@ -1,0 +1,14 @@
+Added Component: Designator=CON2(SH1.0 WS 2P)
+Added Component: Designator=CON3(SH1.0 WS 3P)
+Added Pin To Net: NetName=PGND Pin=CON2-0
+Added Pin To Net: NetName=PGND Pin=CON2-0
+Added Pin To Net: NetName=CAN1H Pin=CON2-1
+Added Pin To Net: NetName=CAN1L Pin=CON2-2
+Added Pin To Net: NetName=GND Pin=CON3-0
+Added Pin To Net: NetName=GND Pin=CON3-0
+Added Pin To Net: NetName=K1 Pin=CON3-1
+Added Pin To Net: NetName=K2 Pin=CON3-2
+Added Pin To Net: NetName=GND Pin=CON3-3
+Added Member To Class: ClassName=Sheet1 Member=Component CON2 SH1.0_2
+Added Member To Class: ClassName=Sheet1 Member=Component CON3 SH1.0_3
+Added Room: Name=Sheet1

@@ -1,0 +1,26 @@
+Change Component Designator: OldDesignator=CON8 NewDesignator=CON10
+Added Component: Designator=CON8(XH2.54-LS-2P)
+Added Component: Designator=CON9(ZH1.5-LS-2P)
+Added Pin To Net: NetName=GND Pin=CON8-0
+Added Pin To Net: NetName=GND Pin=CON8-0
+Added Pin To Net: NetName=5V Pin=CON8-1
+Added Pin To Net: NetName=GND Pin=CON8-2
+Added Pin To Net: NetName=GND Pin=CON9-0
+Added Pin To Net: NetName=GND Pin=CON9-0
+Added Pin To Net: NetName=3V3 Pin=CON9-1
+Added Pin To Net: NetName=GND Pin=CON9-2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 2.2nF
+Added Member To Class: ClassName=Sheet1 Member=Component C7 1210-10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C8 56pF
+Added Member To Class: ClassName=Sheet1 Member=Component C9 104
+Added Member To Class: ClassName=Sheet1 Member=Component C12 104
+Added Member To Class: ClassName=Sheet1 Member=Component C16 1210-10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C17 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C18 106
+Added Member To Class: ClassName=Sheet1 Member=Component CON8 5V
+Added Member To Class: ClassName=Sheet1 Member=Component CON9 3V3
+Added Member To Class: ClassName=Sheet1 Member=Component CON10 SPI
+Added Member To Class: ClassName=Sheet1 Member=Component R12 22R
+Added Member To Class: ClassName=Sheet1 Member=Component R14 49.9K/3
+Added Member To Class: ClassName=Sheet1 Member=Component U2 AMS1117-3V3
+Added Room: Name=Sheet1

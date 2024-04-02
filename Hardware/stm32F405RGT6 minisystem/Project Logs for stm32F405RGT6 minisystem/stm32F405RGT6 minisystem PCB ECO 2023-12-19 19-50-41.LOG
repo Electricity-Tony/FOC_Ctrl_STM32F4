@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=K? NewDesignator=K1
+Change Component Designator: OldDesignator=K? NewDesignator=K3
+Added Member To Class: ClassName=stm32F405RGT6 minisystem Member=Component K3 TS1185/EC
+Added Room: Name=stm32F405RGT6 minisystem

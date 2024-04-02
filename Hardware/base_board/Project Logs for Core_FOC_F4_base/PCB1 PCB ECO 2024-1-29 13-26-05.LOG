@@ -1,0 +1,600 @@
+Added Component: Designator=12V(15EDGVM-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP_0603)
+Added Component: Designator=C2(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=CON?(XH2.54-LS-2P)
+Added Component: Designator=CON?(SH1.0 LS 2P)
+Added Component: Designator=CON?(ZH1.5-LS-2P)
+Added Component: Designator=CON?(XH2.54-LS-2P)
+Added Component: Designator=CON?(SH1.0 LS 2P)
+Added Component: Designator=CON?(SH1.0 WS 4P)
+Added Component: Designator=CON?(XH2.54-LS-2P)
+Added Component: Designator=CON?(XH2.54-LS-2P)
+Added Component: Designator=CON?(PH2.0-LS-2P)
+Added Component: Designator=CON?(PH2.0-LS-3P)
+Added Component: Designator=CON?(ZH1.5-LS-2P)
+Added Component: Designator=CON?(ZH1.5-LS-2P)
+Added Component: Designator=CON?(ZH1.5-LS-2P)
+Added Component: Designator=CON?(PH2.0-LS-2P)
+Added Component: Designator=D?(SOD-323)
+Added Component: Designator=D?(SOD-323)
+Added Component: Designator=D?(SOD-323)
+Added Component: Designator=D?(LED_5050_WS2812B)
+Add component (AddParameter): Name = "Type"; Value = "5050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RGB"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SOD-323)
+Added Component: Designator=IC?(SOP8_N)
+Add component (AddParameter): Name = "BOM名称"; Value = "CAN总线收发芯片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=L?(NR4030)
+Added Component: Designator=L?(NR3015)
+Added Component: Designator=P?(HDR2X12)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR2X12)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(SOT23)
+Added Component: Designator=Q?(SOT23)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0805-SHORT)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0805-SHORT)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0805-SHORT)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603-SHORT)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0805-SHORT)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0805-SHORT)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0805-SHORT)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0805-SHORT)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0805-SHORT)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=S?(XT30UPB-F)
+Added Component: Designator=S?(XT30UPB-M)
+Added Component: Designator=U1(SOT223)
+Added Component: Designator=U?(SOT23-3)
+Added Component: Designator=U?(SOP-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_10396.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOP-8_EP_150mil"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C9864"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT23-6)
+Added Component: Designator=U?(MSOP10)
+Added Component: Designator=XS?(STM32F405RGT6 V1_1座子)
+Added Component: Designator=XS?(15EDGVM-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=XS?(TypeC-304-16BCP)
+Added Component: Designator=XS?(LCD 0.96-13p)
+Added Component: Designator=XS?(TypeC-304-16BCP)
+Added Pin To Net: NetName=+12 Pin=12V-1
+Added Pin To Net: NetName=GND Pin=12V-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3v3 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=5V Pin=C2-2
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=12V Pin=C?-1
+Added Pin To Net: NetName=12V Pin=C?-1
+Added Pin To Net: NetName=12V Pin=C?-1
+Added Pin To Net: NetName=12V Pin=C?-1
+Added Pin To Net: NetName=12V Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=PGND_IN Pin=C?-1
+Added Pin To Net: NetName=PGND_IN Pin=C?-1
+Added Pin To Net: NetName=PGND_IN Pin=C?-1
+Added Pin To Net: NetName=PGND Pin=C?-1
+Added Pin To Net: NetName=PGND Pin=C?-1
+Added Pin To Net: NetName=PGND Pin=C?-1
+Added Pin To Net: NetName=3v3 Pin=C?-2
+Added Pin To Net: NetName=5V Pin=C?-2
+Added Pin To Net: NetName=12V Pin=C?-2
+Added Pin To Net: NetName=DCBUS_IN Pin=C?-2
+Added Pin To Net: NetName=DCBUS_IN Pin=C?-2
+Added Pin To Net: NetName=DCBUS_IN Pin=C?-2
+Added Pin To Net: NetName=DCBUS Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NTC0 Pin=C?-2
+Added Pin To Net: NetName=USB_5V Pin=C?-2
+Added Pin To Net: NetName=USB_5V Pin=C?-2
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=GND Pin=CON?-0
+Added Pin To Net: NetName=PGND Pin=CON?-0
+Added Pin To Net: NetName=PGND Pin=CON?-0
+Added Pin To Net: NetName=PGND Pin=CON?-0
+Added Pin To Net: NetName=PGND Pin=CON?-0
+Added Pin To Net: NetName=3v3 Pin=CON?-1
+Added Pin To Net: NetName=3v3 Pin=CON?-1
+Added Pin To Net: NetName=3v3 Pin=CON?-1
+Added Pin To Net: NetName=3v3 Pin=CON?-1
+Added Pin To Net: NetName=3v3 Pin=CON?-1
+Added Pin To Net: NetName=5V Pin=CON?-1
+Added Pin To Net: NetName=5V Pin=CON?-1
+Added Pin To Net: NetName=5V Pin=CON?-1
+Added Pin To Net: NetName=5V Pin=CON?-1
+Added Pin To Net: NetName=AS_IC_SCL Pin=CON?-1
+Added Pin To Net: NetName=CAN1H Pin=CON?-1
+Added Pin To Net: NetName=CAN1H Pin=CON?-1
+Added Pin To Net: NetName=ENCODER_CS_A Pin=CON?-1
+Added Pin To Net: NetName=TLE_SPI_CS Pin=CON?-1
+Added Pin To Net: NetName=AS_IC_SDA Pin=CON?-2
+Added Pin To Net: NetName=CAN1L Pin=CON?-2
+Added Pin To Net: NetName=CAN1L Pin=CON?-2
+Added Pin To Net: NetName=ENCODER_CS_B Pin=CON?-2
+Added Pin To Net: NetName=GND Pin=CON?-2
+Added Pin To Net: NetName=GND Pin=CON?-2
+Added Pin To Net: NetName=GND Pin=CON?-2
+Added Pin To Net: NetName=GND Pin=CON?-2
+Added Pin To Net: NetName=GND Pin=CON?-2
+Added Pin To Net: NetName=GND Pin=CON?-2
+Added Pin To Net: NetName=GND Pin=CON?-2
+Added Pin To Net: NetName=GND Pin=CON?-2
+Added Pin To Net: NetName=NTC0 Pin=CON?-2
+Added Pin To Net: NetName=TLE_SPI_SCLK Pin=CON?-2
+Added Pin To Net: NetName=ENCODER_CS_Z Pin=CON?-3
+Added Pin To Net: NetName=TLE_SPI_MISO Pin=CON?-3
+Added Pin To Net: NetName=TLE_SPI_MOSI Pin=CON?-4
+Added Pin To Net: NetName=5V Pin=D?-1
+Added Pin To Net: NetName=NetC?_2 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=PGND_IN Pin=D?-1
+Added Pin To Net: NetName=PGND_IN Pin=D?-1
+Added Pin To Net: NetName=PGND Pin=D?-1
+Added Pin To Net: NetName=USART-Debug-RX Pin=D?-1
+Added Pin To Net: NetName=3v3 Pin=D?-2
+Added Pin To Net: NetName=DCBUS_IN Pin=D?-2
+Added Pin To Net: NetName=DCBUS_IN Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=USB_5V Pin=D?-2
+Added Pin To Net: NetName=USB_5V Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-3
+Added Pin To Net: NetName=RGB_LED Pin=D?-4
+Added Pin To Net: NetName=CAN1_TX Pin=IC?-1
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=5V Pin=IC?-3
+Added Pin To Net: NetName=CAN1_RX Pin=IC?-4
+Added Pin To Net: NetName=CAN1L Pin=IC?-6
+Added Pin To Net: NetName=CAN1H Pin=IC?-7
+Added Pin To Net: NetName=GND Pin=IC?-8
+Added Pin To Net: NetName=5V Pin=L?-1
+Added Pin To Net: NetName=12V Pin=L?-2
+Added Pin To Net: NetName=HALL_A Pin=P?-1
+Added Pin To Net: NetName=HALL_B Pin=P?-1
+Added Pin To Net: NetName=HALL_C Pin=P?-1
+Added Pin To Net: NetName=A3V3 Pin=P?-2
+Added Pin To Net: NetName=DCBUS Pin=P?-2
+Added Pin To Net: NetName=ENCODER_CS_A Pin=P?-2
+Added Pin To Net: NetName=ENCODER_CS_B Pin=P?-2
+Added Pin To Net: NetName=ENCODER_CS_Z Pin=P?-2
+Added Pin To Net: NetName=ENCODER_A Pin=P?-3
+Added Pin To Net: NetName=ENCODER_B Pin=P?-3
+Added Pin To Net: NetName=ENCODER_Z Pin=P?-3
+Added Pin To Net: NetName=12V Pin=P?-4
+Added Pin To Net: NetName=DCBUS Pin=P?-4
+Added Pin To Net: NetName=DCBUS Pin=P?-6
+Added Pin To Net: NetName=NTC2 Pin=P?-6
+Added Pin To Net: NetName=DCBUS Pin=P?-8
+Added Pin To Net: NetName=VC Pin=P?-8
+Added Pin To Net: NetName=DCBUS Pin=P?-10
+Added Pin To Net: NetName=VA Pin=P?-10
+Added Pin To Net: NetName=GND Pin=P?-12
+Added Pin To Net: NetName=IC Pin=P?-12
+Added Pin To Net: NetName=IA Pin=P?-14
+Added Pin To Net: NetName=PGND Pin=P?-14
+Added Pin To Net: NetName=MC_ADC Pin=P?-16
+Added Pin To Net: NetName=PGND Pin=P?-16
+Added Pin To Net: NetName=MA_ADC Pin=P?-18
+Added Pin To Net: NetName=PGND Pin=P?-18
+Added Pin To Net: NetName=HIN2 Pin=P?-20
+Added Pin To Net: NetName=PGND Pin=P?-20
+Added Pin To Net: NetName=LIN1 Pin=P?-22
+Added Pin To Net: NetName=PGND Pin=P?-22
+Added Pin To Net: NetName=LIN1 Pin=P?-24
+Added Pin To Net: NetName=PGND Pin=P?-24
+Added Pin To Net: NetName=DCBUS_IN Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=DCBUS Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=PGND_IN Pin=Q?-2
+Added Pin To Net: NetName=DCBUS_IN Pin=Q?-3
+Added Pin To Net: NetName=NetC?_1 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Pin To Net: NetName=PGND Pin=Q?-3
+Added Pin To Net: NetName=3v3 Pin=R?-1
+Added Pin To Net: NetName=3v3 Pin=R?-1
+Added Pin To Net: NetName=3v3 Pin=R?-1
+Added Pin To Net: NetName=3v3 Pin=R?-1
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Pin To Net: NetName=CAN1H Pin=R?-1
+Added Pin To Net: NetName=CAN1L Pin=R?-1
+Added Pin To Net: NetName=DCBUS Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetD?_2 Pin=R?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NTC0 Pin=R?-1
+Added Pin To Net: NetName=PGND Pin=R?-1
+Added Pin To Net: NetName=PGND Pin=R?-1
+Added Pin To Net: NetName=PGND Pin=R?-1
+Added Pin To Net: NetName=PGND Pin=R?-1
+Added Pin To Net: NetName=USB_DM Pin=R?-1
+Added Pin To Net: NetName=USB_DP Pin=R?-1
+Added Pin To Net: NetName=5V Pin=R?-2
+Added Pin To Net: NetName=12V Pin=R?-2
+Added Pin To Net: NetName=12V Pin=R?-2
+Added Pin To Net: NetName=AGND Pin=R?-2
+Added Pin To Net: NetName=AGND Pin=R?-2
+Added Pin To Net: NetName=DCBUS_IN Pin=R?-2
+Added Pin To Net: NetName=DCBUS_IN Pin=R?-2
+Added Pin To Net: NetName=DCBUS_IN Pin=R?-2
+Added Pin To Net: NetName=DCBUS Pin=R?-2
+Added Pin To Net: NetName=DCBUS Pin=R?-2
+Added Pin To Net: NetName=DCBUS Pin=R?-2
+Added Pin To Net: NetName=ENCODER_CS_A Pin=R?-2
+Added Pin To Net: NetName=ENCODER_CS_B Pin=R?-2
+Added Pin To Net: NetName=ENCODER_CS_Z Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=LCD_BLK Pin=R?-2
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-2
+Added Pin To Net: NetName=NetD?_1 Pin=R?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R?-2
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=USART-Debug-TX Pin=R?-2
+Added Pin To Net: NetName=USB_5V Pin=R?-2
+Added Pin To Net: NetName=DCBUS_IN Pin=S?-1
+Added Pin To Net: NetName=DCBUS_IN Pin=S?-1
+Added Pin To Net: NetName=PGND_IN Pin=S?-2
+Added Pin To Net: NetName=PGND_IN Pin=S?-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=3v3 Pin=U1-2
+Added Pin To Net: NetName=5V Pin=U1-3
+Added Pin To Net: NetName=CAN1H Pin=U?-1
+Added Pin To Net: NetName=CH340_D+ Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=CAN1L Pin=U?-2
+Added Pin To Net: NetName=CH340_D- Pin=U?-2
+Added Pin To Net: NetName=DCBUS Pin=U?-2
+Added Pin To Net: NetName=+12 Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=USB_5V Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=CAN1H Pin=XS?-1
+Added Pin To Net: NetName=GND Pin=XS?-1
+Added Pin To Net: NetName=CAN1L Pin=XS?-2
+Added Pin To Net: NetName=PA15 Pin=XS?-2
+Added Pin To Net: NetName=LCD_SDA Pin=XS?-3
+Added Pin To Net: NetName=PC10 Pin=XS?-3
+Added Pin To Net: NetName=LCD_SCL Pin=XS?-4
+Added Pin To Net: NetName=PC11 Pin=XS?-4
+Added Pin To Net: NetName=LCD_DC Pin=XS?-5
+Added Pin To Net: NetName=PC12 Pin=XS?-5
+Added Pin To Net: NetName=LCD_RES Pin=XS?-6
+Added Pin To Net: NetName=PD2 Pin=XS?-6
+Added Pin To Net: NetName=LCD_CS Pin=XS?-7
+Added Pin To Net: NetName=PB3 Pin=XS?-7
+Added Pin To Net: NetName=GND Pin=XS?-8
+Added Pin To Net: NetName=PB4 Pin=XS?-8
+Added Pin To Net: NetName=PB5 Pin=XS?-9
+Added Pin To Net: NetName=3v3 Pin=XS?-10
+Added Pin To Net: NetName=PB6 Pin=XS?-10
+Added Pin To Net: NetName=PB7 Pin=XS?-11
+Added Pin To Net: NetName=3v3 Pin=XS?-12
+Added Pin To Net: NetName=PB8 Pin=XS?-12
+Added Pin To Net: NetName=GND Pin=XS?-13
+Added Pin To Net: NetName=GND Pin=XS?-13
+Added Pin To Net: NetName=PB9 Pin=XS?-13
+Added Pin To Net: NetName=PGND Pin=XS?-13
+Added Pin To Net: NetName=GND Pin=XS?-14
+Added Pin To Net: NetName=PC13 Pin=XS?-14
+Added Pin To Net: NetName=PGND Pin=XS?-14
+Added Pin To Net: NetName=GND Pin=XS?-15
+Added Pin To Net: NetName=PC14 Pin=XS?-15
+Added Pin To Net: NetName=PGND Pin=XS?-15
+Added Pin To Net: NetName=GND Pin=XS?-16
+Added Pin To Net: NetName=PC15 Pin=XS?-16
+Added Pin To Net: NetName=PGND Pin=XS?-16
+Added Pin To Net: NetName=PC0 Pin=XS?-17
+Added Pin To Net: NetName=PC1 Pin=XS?-18
+Added Pin To Net: NetName=PC2 Pin=XS?-19
+Added Pin To Net: NetName=PC3 Pin=XS?-20
+Added Pin To Net: NetName=PA0 Pin=XS?-21
+Added Pin To Net: NetName=PA1 Pin=XS?-22
+Added Pin To Net: NetName=PA2 Pin=XS?-23
+Added Pin To Net: NetName=PA3 Pin=XS?-24
+Added Pin To Net: NetName=PA4 Pin=XS?-25
+Added Pin To Net: NetName=PA5 Pin=XS?-26
+Added Pin To Net: NetName=PA6 Pin=XS?-27
+Added Pin To Net: NetName=PA7 Pin=XS?-28
+Added Pin To Net: NetName=PC4 Pin=XS?-29
+Added Pin To Net: NetName=PC5 Pin=XS?-30
+Added Pin To Net: NetName=PB0 Pin=XS?-31
+Added Pin To Net: NetName=PB1 Pin=XS?-32
+Added Pin To Net: NetName=PB2 Pin=XS?-33
+Added Pin To Net: NetName=PB10 Pin=XS?-34
+Added Pin To Net: NetName=PB11 Pin=XS?-35
+Added Pin To Net: NetName=PB12 Pin=XS?-36
+Added Pin To Net: NetName=PB13 Pin=XS?-37
+Added Pin To Net: NetName=PB14 Pin=XS?-38
+Added Pin To Net: NetName=PB15 Pin=XS?-39
+Added Pin To Net: NetName=PC6 Pin=XS?-40
+Added Pin To Net: NetName=PC7 Pin=XS?-41
+Added Pin To Net: NetName=PC8 Pin=XS?-42
+Added Pin To Net: NetName=PC9 Pin=XS?-43
+Added Pin To Net: NetName=PA8 Pin=XS?-44
+Added Pin To Net: NetName=PA9 Pin=XS?-45
+Added Pin To Net: NetName=PA10 Pin=XS?-46
+Added Pin To Net: NetName=PA11 Pin=XS?-47
+Added Pin To Net: NetName=PA12 Pin=XS?-48
+Added Pin To Net: NetName=A3V3 Pin=XS?-49
+Added Pin To Net: NetName=+5 Pin=XS?-50
+Added Pin To Net: NetName=GND Pin=XS?-A1B12
+Added Pin To Net: NetName=PGND Pin=XS?-A1B12
+Added Pin To Net: NetName=NetR?_1 Pin=XS?-A4B9
+Added Pin To Net: NetName=CH340_D+ Pin=XS?-A6
+Added Pin To Net: NetName=CH340_D- Pin=XS?-A7
+Added Pin To Net: NetName=NetR?_2 Pin=XS?-A7
+Added Pin To Net: NetName=GND Pin=XS?-B1A12
+Added Pin To Net: NetName=PGND Pin=XS?-B1A12
+Added Pin To Net: NetName=NetR?_1 Pin=XS?-B4A9
+Added Pin To Net: NetName=CH340_D+ Pin=XS?-B6
+Added Pin To Net: NetName=CH340_D- Pin=XS?-B7
+Added Pin To Net: NetName=NetR?_2 Pin=XS?-B7
+Added Member To Class: ClassName=Sheet1 Member=Component 12V HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C2 106
+Added Member To Class: ClassName=Sheet1 Member=Component C? 103
+Added Member To Class: ClassName=Sheet1 Member=Component C? 106
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1210-10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 102
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1210-10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 106
+Added Member To Class: ClassName=Sheet1 Member=Component C? 56pF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 103
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1210-10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 2.2nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 102
+Added Member To Class: ClassName=Sheet1 Member=Component C? 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 103
+Added Member To Class: ClassName=Sheet1 Member=Component C? 47pF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 106
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 106
+Added Member To Class: ClassName=Sheet1 Member=Component C? 3.3nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 106
+Added Member To Class: ClassName=Sheet1 Member=Component C? 106
+Added Member To Class: ClassName=Sheet1 Member=Component CON? 5V
+Added Member To Class: ClassName=Sheet1 Member=Component CON? SH1.0_2
+Added Member To Class: ClassName=Sheet1 Member=Component CON? 3V3
+Added Member To Class: ClassName=Sheet1 Member=Component CON? 5V
+Added Member To Class: ClassName=Sheet1 Member=Component CON? SH1.0_2
+Added Member To Class: ClassName=Sheet1 Member=Component CON? SPI
+Added Member To Class: ClassName=Sheet1 Member=Component CON? 5V
+Added Member To Class: ClassName=Sheet1 Member=Component CON? 5V
+Added Member To Class: ClassName=Sheet1 Member=Component CON? NTC0
+Added Member To Class: ClassName=Sheet1 Member=Component CON? ENCODER
+Added Member To Class: ClassName=Sheet1 Member=Component CON? 3V3
+Added Member To Class: ClassName=Sheet1 Member=Component CON? 3V3
+Added Member To Class: ClassName=Sheet1 Member=Component CON? 3V3
+Added Member To Class: ClassName=Sheet1 Member=Component CON? IIC
+Added Member To Class: ClassName=Sheet1 Member=Component D? ss14
+Added Member To Class: ClassName=Sheet1 Member=Component D? ss14
+Added Member To Class: ClassName=Sheet1 Member=Component D? ss14
+Added Member To Class: ClassName=Sheet1 Member=Component D? ZMM12V
+Added Member To Class: ClassName=Sheet1 Member=Component D? SMBJ28CA
+Added Member To Class: ClassName=Sheet1 Member=Component D? ZMM12V
+Added Member To Class: ClassName=Sheet1 Member=Component D? RGB
+Added Member To Class: ClassName=Sheet1 Member=Component D? ZMM33V
+Added Member To Class: ClassName=Sheet1 Member=Component D? ss14
+Added Member To Class: ClassName=Sheet1 Member=Component IC? TJA1050-CAN1
+Added Member To Class: ClassName=Sheet1 Member=Component L? 68uH
+Added Member To Class: ClassName=Sheet1 Member=Component L? 10uH
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 12X2
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 12X2
+Added Member To Class: ClassName=Sheet1 Member=Component Q? SS8050
+Added Member To Class: ClassName=Sheet1 Member=Component Q? NCE6080K
+Added Member To Class: ClassName=Sheet1 Member=Component Q? FMMT593
+Added Member To Class: ClassName=Sheet1 Member=Component Q? NCE60P50K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 453K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 5K1
+Added Member To Class: ClassName=Sheet1 Member=Component R? 49.9K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 5K1
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 120R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 13.7K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 22R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 30K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 22R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 453K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 22R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 13.7K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 49.9K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 330R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 453K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 453k/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 13.7K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 453K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 453K/3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 2K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 22R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1.5M
+Added Member To Class: ClassName=Sheet1 Member=Component R? 49.9K/3
+Added Member To Class: ClassName=Sheet1 Member=Component S? XT30UPB
+Added Member To Class: ClassName=Sheet1 Member=Component S? XT30UPB
+Added Member To Class: ClassName=Sheet1 Member=Component U1 AMS1117-3V3
+Added Member To Class: ClassName=Sheet1 Member=Component U? PESD1CAN
+Added Member To Class: ClassName=Sheet1 Member=Component U? LM5164
+Added Member To Class: ClassName=Sheet1 Member=Component U? TPS54302
+Added Member To Class: ClassName=Sheet1 Member=Component U? CH340E
+Added Member To Class: ClassName=Sheet1 Member=Component XS? STM32F405RGT6 V1_1 座子
+Added Member To Class: ClassName=Sheet1 Member=Component XS? HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component XS? CH340-Type-C
+Added Member To Class: ClassName=Sheet1 Member=Component XS? 0.96lcd-13p-160X80
+Added Member To Class: ClassName=Sheet1 Member=Component XS? USB-Type-C
+Added Room: Name=Sheet1

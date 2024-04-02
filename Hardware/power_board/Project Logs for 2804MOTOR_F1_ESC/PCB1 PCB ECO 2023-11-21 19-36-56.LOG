@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=CON? NewDesignator=CON1
+Change Component Designator: OldDesignator=CON? NewDesignator=CON2
+Change Component Designator: OldDesignator=CON? NewDesignator=CON3
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=K? NewDesignator=K3
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Added Member To Class: ClassName=Sheet1 Member=Component CON1 ZH1.5_2
+Added Member To Class: ClassName=Sheet1 Member=Component CON2 SH1.0_2
+Added Room: Name=Sheet1

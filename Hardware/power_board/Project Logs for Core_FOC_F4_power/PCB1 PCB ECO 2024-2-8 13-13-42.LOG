@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=R30-1
+Removed Pin From Net: NetName=GND Pin=R42-1
+Added Pin To Net: NetName=PGND Pin=R30-1
+Added Pin To Net: NetName=PGND Pin=R42-1
+Change Net Name : Old Net Name=PGND New Net Name=IBUS-
+Added Room: Name=Sheet1

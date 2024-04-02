@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VDD_5V Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=3v3 Pin=U1-2
+Change Component Footprint: Designator=U1 Old Footprint=AMS1117 New Footprint=SOT23-5
+Change Component Comment : Designator=C1 Old Comment=22u New Comment=106
+Change Component Comment : Designator=U1 Old Comment=AMS1117 New Comment=ME6211 3V3
+Added Pin To Net: NetName=VDD_5V Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=3v3 Pin=U1-5
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-4
+Added Net: Name=NetC2_2
+Added Room: Name=stm32F405RGT6 minisystem

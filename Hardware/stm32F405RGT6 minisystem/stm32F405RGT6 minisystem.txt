@@ -1,0 +1,16 @@
+Board Information Report
+Filename     : G:\BaiduSyncdisk\Synchronization\Tony diy\stm32F405RGT6 minisystem\stm32F405RGT6 minisystem.PcbDoc
+Date         : 2023/12/20
+Time         : 17:34:09
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 126
+    Connections routed, 126
+    Connections remaining, 0
+count : 4
+
+Net Track Width, Count
+    6mils, 63
+count : 1

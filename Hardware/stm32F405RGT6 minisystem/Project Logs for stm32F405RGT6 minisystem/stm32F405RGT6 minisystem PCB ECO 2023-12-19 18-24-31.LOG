@@ -1,0 +1,7 @@
+Added Component: Designator=K3(TS-1185EC-X-X-X)
+Added Pin To Net: NetName=PB11 Pin=K3-1
+Added Pin To Net: NetName=PB11 Pin=K3-1
+Added Pin To Net: NetName=GND Pin=K3-2
+Added Pin To Net: NetName=GND Pin=K3-2
+Added Member To Class: ClassName=stm32F405RGT6 minisystem Member=Component K3 TS1185/EC
+Added Room: Name=stm32F405RGT6 minisystem

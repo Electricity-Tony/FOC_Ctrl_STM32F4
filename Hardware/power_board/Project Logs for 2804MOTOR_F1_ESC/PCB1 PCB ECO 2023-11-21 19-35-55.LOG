@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=CON? Old Footprint=ZH1.5-LS-2P New Footprint=ZH1.5-WS-2P
+Added Member To Class: ClassName=Sheet1 Member=Component CON? SH1.0_2
+Added Member To Class: ClassName=Sheet1 Member=Component CON? SH1.0_3

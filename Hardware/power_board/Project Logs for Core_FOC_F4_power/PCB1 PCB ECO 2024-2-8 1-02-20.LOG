@@ -1,0 +1,28 @@
+Added Component: Designator=CON1(SH1.0 LS 3P)
+Added Component: Designator=CON2(MR30-M)
+Added Component: Designator=CON3(XH2.54-LI-3P)
+Added Component: Designator=CON4(PH2.0-LI-3P)
+Added Component: Designator=CON5(ZH1.5-LI-3P)
+Added Pin To Net: NetName=PGND Pin=CON1-0
+Added Pin To Net: NetName=PGND Pin=CON1-0
+Added Pin To Net: NetName=MA Pin=CON1-1
+Added Pin To Net: NetName=MB Pin=CON1-2
+Added Pin To Net: NetName=MC Pin=CON1-3
+Added Pin To Net: NetName=MC Pin=CON2-1
+Added Pin To Net: NetName=MB Pin=CON2-2
+Added Pin To Net: NetName=MA Pin=CON2-3
+Added Pin To Net: NetName=MA Pin=CON3-1
+Added Pin To Net: NetName=MB Pin=CON3-2
+Added Pin To Net: NetName=MC Pin=CON3-3
+Added Pin To Net: NetName=MA Pin=CON4-1
+Added Pin To Net: NetName=MB Pin=CON4-2
+Added Pin To Net: NetName=MC Pin=CON4-3
+Added Pin To Net: NetName=MA Pin=CON5-1
+Added Pin To Net: NetName=MB Pin=CON5-2
+Added Pin To Net: NetName=MC Pin=CON5-3
+Added Member To Class: ClassName=Sheet1 Member=Component CON1 SH1.0_3
+Added Member To Class: ClassName=Sheet1 Member=Component CON2 MR30_M 三相电机插座
+Added Member To Class: ClassName=Sheet1 Member=Component CON3 XH2.54_3_直插
+Added Member To Class: ClassName=Sheet1 Member=Component CON4 PH2.0_3_直插
+Added Member To Class: ClassName=Sheet1 Member=Component CON5 ZH1.5_3
+Added Room: Name=Sheet1

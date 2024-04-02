@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=K1-1
+Removed Pin From Net: NetName=NetC5_1 Pin=K1-1
+Removed Pin From Net: NetName=GND Pin=K1-2
+Removed Pin From Net: NetName=GND Pin=K1-2
+Removed Pin From Net: NetName=PB11 Pin=K3-1
+Removed Pin From Net: NetName=PB11 Pin=K3-1
+Removed Pin From Net: NetName=GND Pin=K3-2
+Removed Pin From Net: NetName=GND Pin=K3-2
+Removed Member From Class: ClassName=stm32F405RGT6 minisystem Member=K1
+Removed Member From Class: ClassName=stm32F405RGT6 minisystem Member=K3
+Added Component: Designator=K?(TS-1185EC-X-X-X)
+Added Component: Designator=K?(TS-1185EC-X-X-X)
+Added Pin To Net: NetName=NetC5_1 Pin=K?-1
+Added Pin To Net: NetName=NetC5_1 Pin=K?-1
+Added Pin To Net: NetName=PB11 Pin=K?-1
+Added Pin To Net: NetName=PB11 Pin=K?-1
+Added Pin To Net: NetName=GND Pin=K?-2
+Added Pin To Net: NetName=GND Pin=K?-2
+Added Pin To Net: NetName=GND Pin=K?-2
+Added Pin To Net: NetName=GND Pin=K?-2
+Added Member To Class: ClassName=stm32F405RGT6 minisystem Member=Component K? TS1185/EC
+Added Member To Class: ClassName=stm32F405RGT6 minisystem Member=Component K? TS1185/EC
+Added Room: Name=stm32F405RGT6 minisystem

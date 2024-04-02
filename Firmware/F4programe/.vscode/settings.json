@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "stm32f4xx_hal_conf.h": "c",
+        "stm32f4xx_hal_rcc.h": "c",
+        "stm32f4xx_hal_def.h": "c",
+        "stm32f4xx.h": "c",
+        "stm32f405xx.h": "c",
+        "tim.h": "c",
+        "spi.h": "c",
+        "stm32f4xx_hal_gpio.h": "c",
+        "typeinfo": "c",
+        "st7735s_compat.h": "c",
+        "st7735s.h": "c",
+        "gfx.h": "c",
+        "st7735s_api.h": "c",
+        "bsp_st7735s_api.h": "c",
+        "bsp_st7735s_compat.h": "c",
+        "bsp_st7735s.h": "c",
+        "bsp_st7735s_driver.h": "c",
+        "bsp_st7735s_gfx.h": "c",
+        "bsp_st7735s_fonts.h": "c",
+        "bsp_can.h": "c"
+    }
+}

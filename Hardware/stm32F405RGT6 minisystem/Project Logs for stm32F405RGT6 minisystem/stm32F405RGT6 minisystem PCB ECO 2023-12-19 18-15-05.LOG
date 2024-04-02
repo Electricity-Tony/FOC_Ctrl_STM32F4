@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=BOOT0 Pin=U2-28
+Removed Pin From Net: NetName=BOOT0 Pin=X1-33
+Added Pin To Net: NetName=BOOT0 Pin=U2-60
+Added Pin To Net: NetName=PB2 Pin=R3-1
+Added Pin To Net: NetName=PB2 Pin=U2-28
+Added Pin To Net: NetName=PB2 Pin=X1-33
+Added Net: Name=PB2
+Added Room: Name=stm32F405RGT6 minisystem

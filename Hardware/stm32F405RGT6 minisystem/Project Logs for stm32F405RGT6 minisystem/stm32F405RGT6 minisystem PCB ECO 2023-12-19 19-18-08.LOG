@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=X1 Old Footprint=STM32F405RGT6Òý½ÅÕë-·À´ô New Footprint=STM32F405RGT6 V1_1Òý½Å
+Change Component Comment : Designator=X1 Old Comment=STM32F405RGT6Òý½ÅÕë_·À´ô New Comment=STM32F405RGT6 V1_1 Òý½Å
+Added Room: Name=stm32F405RGT6 minisystem

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=AGND Pin=C1-1
+Removed Pin From Net: NetName=AGND Pin=C2-1
+Removed Pin From Net: NetName=AGND Pin=C18-1
+Removed Pin From Net: NetName=AGND Pin=IC1-4
+Removed Pin From Net: NetName=GND Pin=IC1-7
+Removed Pin From Net: NetName=AGND Pin=IC2-4
+Removed Pin From Net: NetName=GND Pin=IC2-7
+Removed Pin From Net: NetName=AGND Pin=IC3-4
+Removed Pin From Net: NetName=GND Pin=IC3-7
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Pin To Net: NetName=AGND Pin=IC1-7
+Added Pin To Net: NetName=GND Pin=IC2-4
+Added Pin To Net: NetName=AGND Pin=IC2-7
+Added Pin To Net: NetName=GND Pin=IC3-4
+Added Pin To Net: NetName=AGND Pin=IC3-7
+Added Room: Name=Sheet1

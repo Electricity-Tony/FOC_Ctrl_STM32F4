@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=M1_W Pin=XS1-2
+Removed Pin From Net: NetName=M1_V Pin=XS1-3
+Change Component Description : Designator=IC3 Old Description=三通道板桥驱动芯片 New Description= 三通道板桥驱动芯片
+Added Pin To Net: NetName=M1_V Pin=XS1-2
+Added Pin To Net: NetName=M1_W Pin=XS1-3
+Added Room: Name=Sheet1
