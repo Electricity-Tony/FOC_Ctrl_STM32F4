@@ -12,7 +12,7 @@
 
 * power_board
 
-![大功率 FOC 驱动板](./README.assets/大功率 FOC 驱动板.png)
+![大功率 FOC 驱动板](./README.assets/大功率FOC驱动板.png)
 
 * base_board
 
