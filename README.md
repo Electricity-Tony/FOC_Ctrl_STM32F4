@@ -6,9 +6,15 @@
 
 ## 1 PCB设计文件
 
+* stm32F405RGT6 minisystem
+
 ![STM32F405RGT6核心板](./README.assets/STM32F405RGT6核心板.png)
 
+* power_board
+
 ![大功率 FOC 驱动板](./README.assets/大功率 FOC 驱动板.png)
+
+* base_board
 
 ![大功率FOC主控板](./README.assets/大功率FOC主控板.png)
 
@@ -44,6 +50,10 @@
 ![image-20240415173135918](./README.assets/image-20240415173135918.png)
 
 > TPS54302 ED 角位欠压锁定角，内部上拉，当ED电压低于阈值电压实现欠压锁定，一般而言悬空即可使用，不使用欠压锁定功能
+>
+> ![image-20240423094443099](./README.assets/image-20240423094443099.png)
+>
+> ![image-20240423094515631](./README.assets/image-20240423094515631.png)
 >
 > 输出电压计算：![image-20240415180018281](./README.assets/image-20240415180018281.png)
 >
